@@ -56,6 +56,9 @@
   - [Breakpoints](#breakpoints)
 - [Color System](#color-system)
 - [Tips & Best Practices](#tips--best-practices)
+- [Common UI Patterns](#common-ui-patterns)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## 🛠 Installation & Setup
 
