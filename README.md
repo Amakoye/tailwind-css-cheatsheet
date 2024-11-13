@@ -55,6 +55,32 @@
 - [Color System](#color-system)
 - [Tips & Best Practices](#tips--best-practices)
 
+## 🛠 Installation & Setup
+
+> TODO: Add comprehensive installation guide
+
+### Quick Start
+```bash
+# Install Tailwind CSS
+npm install -D tailwindcss
+
+# Initialize configuration file
+npx tailwindcss init
+```
+
+### Basic Configuration
+```javascript
+// tailwind.config.js
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: ["./src/**/*.{html,js}"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+```
+
 ## Layout
 
 ### Display
@@ -292,5 +318,62 @@ Shade values:
    - Group related utilities together
    - Put responsive utilities last
    - Keep hover/focus states near their base utilities
+
+[↑ Back to top](#table-of-contents)
+## 🧩 Common UI Patterns
+> TODO: Add frequently used UI patterns with code examples
+
+### Basic Patterns
+- [ ] Responsive Navigation Bar
+- [ ] Card Layouts
+- [ ] Form Elements
+- [ ] Hero Sections
+- [ ] Footers
+
+### Advanced Patterns
+- [ ] Dropdown Menus
+- [ ] Modal Windows
+- [ ] Sidebar Layouts
+- [ ] Data Tables
+- [ ] Authentication Forms
+
+## 📚 Project Structure
+```
+tailwind-cheatsheet/
+├── README.md
+├── LICENSE
+├── CONTRIBUTING.md
+├── examples/
+│   ├── components/
+│   │   ├── buttons.md
+│   │   ├── cards.md
+│   │   ├── forms.md
+│   │   └── navigation.md
+│   └── layouts/
+│       ├── grid-systems.md
+│       ├── hero-sections.md
+│       └── responsive-patterns.md
+└── docs/
+    ├── installation.md
+    ├── configuration.md
+    └── customization.md
+```
+
+## 🤝 Contributing
+
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+
+### Contribution Areas
+- Adding new utility class examples
+- Improving documentation
+- Adding real-world use cases
+- Fixing errors or typos
+- Suggesting improvements
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
 
 [↑ Back to top](#table-of-contents)
