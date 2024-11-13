@@ -22,10 +22,6 @@
 - [Tailwind Play](https://play.tailwindcss.com/) - Official Playground
 - [Tailwind UI](https://tailwindui.com/) - Component Library
 
----
-
-[Continue with existing Table of Contents...]
-
 ## Table of Contents
 - [Layout](#layout)
   - [Display](#display)
