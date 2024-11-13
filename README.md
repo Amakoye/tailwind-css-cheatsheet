@@ -363,7 +363,7 @@ tailwind-cheatsheet/
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+I welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
 ### Contribution Areas
 - Adding new utility class examples
