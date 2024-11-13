@@ -23,6 +23,8 @@
 - [Tailwind UI](https://tailwindui.com/) - Component Library
 
 ## Table of Contents
+- [Installation & Setup](#installation--setup)
+- [Basic Configuration](#basic-configuration)
 - [Layout](#layout)
   - [Display](#display)
   - [Flexbox](#flexbox)
